@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm M i j a i l </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/3_mXIoBPNhoAAAAi/party-parrot.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZmaHpuanpmcHRtZ2t4eDE4MjNzM2I0MmExbTVobGwwcGR0MGc3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2zVr6cu95nF6O4/giphy.webp" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
