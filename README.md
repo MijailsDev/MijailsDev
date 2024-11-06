@@ -12,7 +12,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+- 📫 Reach out to me at: <a href="mijawwe@gmail.com">mijawwe@gmail.com</a>
 
 ## My Skills Include
 
@@ -62,7 +62,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mijailsdev)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/mijailsdev)
+[![](https://github-readme-stats.vercel.app/api?username=mijailsdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mijailsdev)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mijailsdev&theme=material-palenight)](https://github.com/mijailsdev)
 </div>
 
