@@ -64,11 +64,13 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 [![](https://github-readme-stats.vercel.app/api?username=mijailsdev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mijailsdev)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=mijailsdev&theme=material-palenight)](https://github.com/mijailsdev)
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mijailsdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
+
+<p align="center">
+    <img 
+        alt="GitHub Stats" 
+        height="150" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mijailsdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+</p>
+
 
